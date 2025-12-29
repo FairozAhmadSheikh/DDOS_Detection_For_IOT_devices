@@ -59,11 +59,7 @@ Since the dataset is large, it is **not uploaded to this repository**.
 You can download it from the official source:
 
 🔗 **IoT DDoS Dataset (Official Repository / Research Dataset)**  
-- https://www.kaggle.com/datasets  
-- https://ieee-dataport.org  
-- https://www.unb.ca/cic/datasets/
-
-(Use the dataset corresponding to IoT DDoS traffic as referenced in your implementation.)
+- https://data.mendeley.com/datasets/2bw34ght8b/1
 
 📌 **Note:**  
 After downloading, place the dataset file in the project root directory before running the code.
@@ -152,10 +148,6 @@ The proposed approach is:
 
 ---
 
-## 👨‍🎓 Academic Context
-This project is developed as part of an **MTech (AI / CSE) major project**, following standard research methodology, evaluation practices, and validation techniques.
-
----
 
 ## 🛠 Technologies Used
 - Python
